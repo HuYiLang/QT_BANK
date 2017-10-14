@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagin/02.png</file>
+        <file>imagin/13.png</file>
+        <file>imagin/16.png</file>
+        <file>imagin/feng.jpg</file>
+        <file>imagin/hjf.jpg</file>
+        <file>imagin/log1.jpg</file>
+        <file>imagin/tg.jpg</file>
+        <file>imagin/xin.jpg</file>
+        <file>imagin/xue.jpg</file>
+        <file>imagin/图片 (2).bmp</file>
+        <file>imagin/图片.bmp</file>
+        <file>imagin/icon.bmp</file>
+        <file>imagin/yu.bmp</file>
+        <file>imagin/hua.bmp</file>
+        <file>imagin/花.bmp</file>
+        <file>imagin/花1.bmp</file>
+        <file>imagin/花2.bmp</file>
+        <file>imagin/花3.bmp</file>
+        <file>imagin/天空.bmp</file>
+        <file>imagin/花4.bmp</file>
+        <file>imagin/花5.bmp</file>
+        <file>imagin/花7.bmp</file>
+        <file>imagin/03.JPG</file>
+    </qresource>
+</RCC>
